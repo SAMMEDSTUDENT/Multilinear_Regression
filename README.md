@@ -1,2 +1,2 @@
-# Linear_Regression
-Linear Regression model for predicting the Brain Weight Of Human Being.
+# MultiLinear_Regression
+MultiLinear Regression model for predicting the profit of a company, based on the parameters like R&D,etc.
